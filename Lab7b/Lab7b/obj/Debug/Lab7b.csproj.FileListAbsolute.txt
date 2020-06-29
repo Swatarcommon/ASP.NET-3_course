@@ -1,0 +1,9 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\bin\Debug\Lab7b.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\bin\Debug\Lab7b.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\bin\Debug\Lab7b.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\obj\Debug\Lab7b.Form1.resources
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csproj.GenerateResource.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\obj\Debug\Lab7b.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7b\Lab7b\obj\Debug\Lab7b.pdb

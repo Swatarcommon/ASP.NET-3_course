@@ -1,0 +1,41 @@
+﻿@model Lab8.Models.Phone
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Добавить</h2>
+
+
+@using (Html.BeginForm())
+{
+    <div>
+        <h4>Телефон</h4>
+        <hr />
+        @Html.ValidationSummary(true, "")
+        <div>
+            @Html.LabelFor(model => model.Name)
+            <div>
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name, "")
+            </div>
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.Phone_Number)
+            <div>
+                @Html.EditorFor(model => model.Phone_Number)
+                @Html.ValidationMessageFor(model => model.Phone_Number, "")
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <input type="submit" value="Create" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("К списку телефонов", "Info")
+</div>

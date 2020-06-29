@@ -1,0 +1,45 @@
+﻿@model Lab_03.Models.Phone
+
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div>
+        <h4>Phone</h4>
+        <hr />
+        @Html.ValidationSummary(true, "")
+        <div>
+            @Html.LabelFor(model => model.Last_name)
+            <div>
+                @Html.EditorFor(model => model.Last_name)
+                @Html.ValidationMessageFor(model => model.Last_name, "")
+            </div>
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.Phone_number)
+            <div>
+                @Html.EditorFor(model => model.Phone_number)
+                @Html.ValidationMessageFor(model => model.Phone_number, "")
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <input type="submit" value="Create"/>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

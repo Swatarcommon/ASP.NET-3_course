@@ -1,0 +1,73 @@
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csprojAssemblyReference.cache
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\MainWindow.g.cs
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\App.g.cs
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.cache
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.lref
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\MainWindow.baml
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.g.resources
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+C:\University\! 6 sem\ASP\Лекции\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csprojAssemblyReference.cache
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\MainWindow.g.cs
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\App.g.cs
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.cache
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.lref
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\MainWindow.baml
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.g.resources
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+C:\University\! 6 sem\ASP\Практика\Lab1\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\University\Server\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\University\Server\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\University\Server\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csprojAssemblyReference.cache
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\MainWindow.g.cs
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\App.g.cs
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.cache
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.lref
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\MainWindow.baml
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.g.resources
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+C:\University\Server\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csprojAssemblyReference.cache
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\MainWindow.g.cs
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\App.g.cs
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.cache
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.lref
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\MainWindow.baml
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp.g.resources
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+D:\LABS\PIS_SMELOV\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+E:\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+E:\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+E:\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csprojAssemblyReference.cache
+E:\WindowsApp\WindowsApp\obj\Debug\MainWindow.g.cs
+E:\WindowsApp\WindowsApp\obj\Debug\App.g.cs
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.cache
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp_MarkupCompile.lref
+E:\WindowsApp\WindowsApp\obj\Debug\MainWindow.baml
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp.g.resources
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+E:\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb

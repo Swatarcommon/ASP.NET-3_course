@@ -1,0 +1,44 @@
+﻿@model Lab8.Models.Phone
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+<h2>Обновить телефон</h2>
+
+
+@using (Html.BeginForm())
+{
+    <div>
+        <hr />
+        @Html.ValidationSummary(true, "")
+        <div>
+            @Html.Hidden(Model.Id.ToString())
+            @Html.LabelFor(model => model.Name)
+            <div>
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(model => model.Name, "")
+            </div>
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.Phone_Number)
+            <div>
+                @Html.EditorFor(model => model.Phone_Number)
+                @Html.ValidationMessageFor(model => model.Phone_Number, "")
+            </div>
+        </div>
+        <br />
+        <div>
+            <div>
+                <input type="submit" value="Save" />
+            </div>
+        </div>
+    </div>
+}
+
+<br />
+<div>
+    @Html.ActionLink("К списку телефонов", "Info")
+</div>

@@ -1,0 +1,33 @@
+﻿@using Lab_03.Models
+@model IEnumerable<Phone>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    tr{
+        border: 1px solid #000000;
+    }
+</style>
+
+<h2>Index</h2>
+<table>
+    <tr>
+        <td>Last Name</td>
+        <td>Phone</td>
+        <td></td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Last_name</td>
+            <td>@item.Phone_number</td>
+            <td><p><a href="/Dict/Update/@item.Last_name">Обновить</a></p></td>
+            <td><p><a href="/Dict/Delete/@item.Last_name">Удалить</a></p></td>
+        </tr>
+    }
+</table>
+

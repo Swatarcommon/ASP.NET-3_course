@@ -1,0 +1,1298 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Lab_03.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Lab_03.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Lab_03.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\csc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\csc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\csc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\csi.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\csi.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\csi.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Collections.Immutable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\vbc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\vbc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\vbc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\VBCSCompiler.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\roslyn\VBCSCompiler.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Antlr3.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Microsoft.Web.Infrastructure.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Helpers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Mvc.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Optimization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.WebPages.Deployment.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.WebPages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.WebPages.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\WebGrease.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Helpers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Mvc.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Optimization.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.WebPages.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.WebPages.Deployment.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Web.WebPages.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Antlr3.Runtime.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.Helpers.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.Mvc.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.Optimization.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.WebPages.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\obj\Debug\Lab_03.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\obj\Debug\Lab_03.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\obj\Debug\Lab_03.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\netstandard.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Collections.Concurrent.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Collections.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Collections.NonGeneric.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Collections.Specialized.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ComponentModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ComponentModel.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ComponentModel.TypeConverter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Data.Common.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.Contracts.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.Debug.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.Process.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.Tools.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.TraceSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Diagnostics.Tracing.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Drawing.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Dynamic.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Globalization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Globalization.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.FileSystem.Watcher.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.IsolatedStorage.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.MemoryMappedFiles.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.Pipes.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Linq.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Linq.Expressions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Linq.Parallel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Linq.Queryable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.NameResolution.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.NetworkInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.Ping.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.Requests.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.Security.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.WebHeaderCollection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.WebSockets.Client.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Net.WebSockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ObjectModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Reflection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Reflection.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Reflection.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Resources.Reader.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Resources.ResourceManager.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Resources.Writer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Handles.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.InteropServices.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Numerics.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Serialization.Formatters.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Serialization.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Serialization.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.Serialization.Xml.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Claims.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Cryptography.Csp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.Principal.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Security.SecureString.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.Encoding.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.RegularExpressions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Overlapped.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Tasks.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Tasks.Parallel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Thread.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.ThreadPool.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Timer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Xml.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Xml.XmlSerializer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\New\Lab_03\Lab_03\bin\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Lab_03.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Lab_03.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Lab_03.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\csc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\csc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\csc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\csi.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\csi.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\csi.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Collections.Immutable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\vbc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\vbc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\vbc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\VBCSCompiler.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\roslyn\VBCSCompiler.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\netstandard.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Collections.Concurrent.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Collections.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Collections.NonGeneric.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Collections.Specialized.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ComponentModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ComponentModel.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ComponentModel.TypeConverter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Data.Common.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.Contracts.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.Debug.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.Process.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.Tools.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.TraceSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Diagnostics.Tracing.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Drawing.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Dynamic.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Globalization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Globalization.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.FileSystem.Watcher.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.IsolatedStorage.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.MemoryMappedFiles.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.Pipes.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Linq.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Linq.Expressions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Linq.Parallel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Linq.Queryable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.NameResolution.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.NetworkInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.Ping.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.Requests.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.Security.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.WebHeaderCollection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.WebSockets.Client.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Net.WebSockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ObjectModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Reflection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Reflection.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Reflection.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Resources.Reader.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Resources.ResourceManager.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Resources.Writer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Handles.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.InteropServices.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Numerics.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Serialization.Formatters.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Serialization.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Serialization.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.Serialization.Xml.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Claims.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Cryptography.Csp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.Principal.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Security.SecureString.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.Encoding.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.RegularExpressions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Overlapped.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Tasks.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Tasks.Parallel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Thread.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.ThreadPool.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Timer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Xml.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Xml.XmlSerializer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Antlr3.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Microsoft.Web.Infrastructure.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Helpers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Mvc.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Optimization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.WebPages.Deployment.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.WebPages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.WebPages.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\WebGrease.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Helpers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Mvc.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Optimization.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.WebPages.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.WebPages.Deployment.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\System.Web.WebPages.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Antlr3.Runtime.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.Helpers.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.Mvc.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.Optimization.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.WebPages.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\obj\Debug\Lab_03.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\obj\Debug\Lab_03.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\obj\Debug\Lab_03.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab_03\Lab_03\obj\Debug\Lab_03.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Lab_03.dll.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Lab_03.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Lab_03.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\csc.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\csc.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\csc.rsp
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\csi.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\csi.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\csi.rsp
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.AppContext.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Collections.Immutable.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Console.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Globalization.Calendars.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.IO.Compression.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.IO.FileSystem.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Net.Http.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Net.Sockets.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Reflection.Metadata.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.ValueTuple.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Xml.XPath.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\vbc.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\vbc.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\vbc.rsp
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\VBCSCompiler.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\roslyn\VBCSCompiler.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Microsoft.Win32.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\netstandard.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.AppContext.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Collections.Concurrent.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Collections.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Collections.NonGeneric.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Collections.Specialized.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ComponentModel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ComponentModel.EventBasedAsync.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ComponentModel.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ComponentModel.TypeConverter.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Console.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Data.Common.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.Contracts.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.Debug.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.FileVersionInfo.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.Process.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.StackTrace.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.Tools.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.TraceSource.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Diagnostics.Tracing.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Drawing.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Dynamic.Runtime.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Globalization.Calendars.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Globalization.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Globalization.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.Compression.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.Compression.ZipFile.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.FileSystem.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.FileSystem.DriveInfo.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.FileSystem.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.FileSystem.Watcher.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.IsolatedStorage.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.MemoryMappedFiles.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.Pipes.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.IO.UnmanagedMemoryStream.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Linq.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Linq.Expressions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Linq.Parallel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Linq.Queryable.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.Http.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.NameResolution.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.NetworkInformation.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.Ping.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.Requests.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.Security.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.Sockets.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.WebHeaderCollection.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.WebSockets.Client.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Net.WebSockets.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ObjectModel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Reflection.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Reflection.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Reflection.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Resources.Reader.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Resources.ResourceManager.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Resources.Writer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Handles.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.InteropServices.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Numerics.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Serialization.Formatters.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Serialization.Json.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Serialization.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.Serialization.Xml.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Claims.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Cryptography.Algorithms.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Cryptography.Csp.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Cryptography.Encoding.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Cryptography.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Cryptography.X509Certificates.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.Principal.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Security.SecureString.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.Encoding.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.Encoding.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.RegularExpressions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Overlapped.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Tasks.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Tasks.Parallel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Thread.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.ThreadPool.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Timer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Xml.ReaderWriter.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Xml.XDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Xml.XmlDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Xml.XmlSerializer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Xml.XPath.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Xml.XPath.XDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Antlr3.Runtime.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Microsoft.Web.Infrastructure.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Newtonsoft.Json.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Buffers.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Memory.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Numerics.Vectors.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.Encodings.Web.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.Json.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Tasks.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ValueTuple.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Helpers.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Mvc.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Optimization.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Razor.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.WebPages.Deployment.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.WebPages.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.WebPages.Razor.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\WebGrease.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Buffers.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Memory.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Numerics.Vectors.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.Encodings.Web.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Text.Json.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Threading.Tasks.Extensions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.ValueTuple.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Helpers.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Mvc.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Optimization.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.Razor.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.WebPages.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.WebPages.Deployment.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\System.Web.WebPages.Razor.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Newtonsoft.Json.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Antlr3.Runtime.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.Helpers.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.Mvc.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.Optimization.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.Razor.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.WebPages.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\obj\Debug\Lab_03.csprojAssemblyReference.cache
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\obj\Debug\Lab_03.csproj.CoreCompileInputs.cache
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\obj\Debug\Lab_03.csproj.CopyComplete
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\obj\Debug\Lab_03.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab3\Lab_03\obj\Debug\Lab_03.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Lab_03.dll.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Lab_03.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Lab_03.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\csc.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\csc.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\csc.rsp
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\csi.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\csi.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\csi.rsp
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.AppContext.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Collections.Immutable.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Console.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Globalization.Calendars.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.IO.Compression.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.IO.FileSystem.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Net.Http.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Net.Sockets.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Reflection.Metadata.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.ValueTuple.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Xml.XPath.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\vbc.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\vbc.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\vbc.rsp
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\VBCSCompiler.exe
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\roslyn\VBCSCompiler.exe.config
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Win32.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\netstandard.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.AppContext.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Collections.Concurrent.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Collections.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Collections.NonGeneric.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Collections.Specialized.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ComponentModel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ComponentModel.EventBasedAsync.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ComponentModel.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ComponentModel.TypeConverter.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Console.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Data.Common.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.Contracts.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.Debug.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.FileVersionInfo.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.Process.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.StackTrace.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.Tools.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.TraceSource.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.Tracing.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Drawing.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Dynamic.Runtime.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Globalization.Calendars.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Globalization.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Globalization.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.Compression.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.Compression.ZipFile.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.FileSystem.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.FileSystem.DriveInfo.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.FileSystem.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.FileSystem.Watcher.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.IsolatedStorage.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.MemoryMappedFiles.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.Pipes.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.IO.UnmanagedMemoryStream.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Linq.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Linq.Expressions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Linq.Parallel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Linq.Queryable.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.Http.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.NameResolution.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.NetworkInformation.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.Ping.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.Requests.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.Security.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.Sockets.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.WebHeaderCollection.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.WebSockets.Client.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Net.WebSockets.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ObjectModel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Reflection.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Reflection.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Reflection.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Resources.Reader.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Resources.ResourceManager.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Resources.Writer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Handles.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.InteropServices.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Numerics.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Serialization.Formatters.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Serialization.Json.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Serialization.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.Serialization.Xml.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Claims.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Cryptography.Algorithms.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Cryptography.Csp.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Cryptography.Encoding.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Cryptography.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Cryptography.X509Certificates.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.Principal.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Security.SecureString.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.Encoding.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.Encoding.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.RegularExpressions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Overlapped.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Tasks.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Tasks.Parallel.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Thread.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.ThreadPool.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Timer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Xml.ReaderWriter.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Xml.XDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Xml.XmlDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Xml.XmlSerializer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Xml.XPath.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Xml.XPath.XDocument.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Antlr3.Runtime.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Web.Infrastructure.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Newtonsoft.Json.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Buffers.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Memory.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Numerics.Vectors.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.Encodings.Web.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.Json.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Tasks.Extensions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ValueTuple.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Helpers.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Mvc.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Optimization.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Razor.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.WebPages.Deployment.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.WebPages.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.WebPages.Razor.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\WebGrease.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Buffers.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Memory.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Numerics.Vectors.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.Encodings.Web.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Text.Json.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Threading.Tasks.Extensions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ValueTuple.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Helpers.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Mvc.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Optimization.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.Razor.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.WebPages.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.WebPages.Deployment.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Web.WebPages.Razor.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Newtonsoft.Json.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Antlr3.Runtime.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.Helpers.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.Mvc.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.Optimization.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.Razor.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.WebPages.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\obj\Debug\Lab_03.csproj.CoreCompileInputs.cache
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\obj\Debug\Lab_03.csproj.CopyComplete
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\obj\Debug\Lab_03.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\obj\Debug\Lab_03.pdb
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\EntityFramework.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\EntityFramework.SqlServer.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\EntityFramework.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\EntityFramework.SqlServer.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Bcl.HashCode.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Options.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Primitives.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Collections.Immutable.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.ComponentModel.Annotations.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.DiagnosticSource.dll
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Bcl.HashCode.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Options.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\Microsoft.Extensions.Primitives.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Collections.Immutable.xml
+D:\3 year 2 semester\ПИС\сделанные лабы\Lab4\Lab_03\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Lab_03.dll.config
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Lab_03.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Lab_03.pdb
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\csc.exe
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\csc.exe.config
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\csc.rsp
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\csi.exe
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\csi.exe.config
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\csi.rsp
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.AppContext.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Console.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.IO.Compression.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Net.Http.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.ValueTuple.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\vbc.exe
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\vbc.exe.config
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\vbc.rsp
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\VBCSCompiler.exe
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Win32.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\netstandard.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.AppContext.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Collections.Concurrent.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Collections.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Collections.NonGeneric.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Collections.Specialized.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ComponentModel.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ComponentModel.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Console.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Data.Common.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.Contracts.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.Debug.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.Process.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.StackTrace.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.Tools.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.TraceSource.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.Tracing.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Drawing.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Dynamic.Runtime.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Globalization.Calendars.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Globalization.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Globalization.Extensions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.Compression.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.Compression.ZipFile.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.FileSystem.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.IsolatedStorage.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.Pipes.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Linq.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Linq.Expressions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Linq.Parallel.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Linq.Queryable.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.Http.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.NameResolution.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.NetworkInformation.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.Ping.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.Requests.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.Security.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.Sockets.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.WebHeaderCollection.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.WebSockets.Client.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Net.WebSockets.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ObjectModel.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Reflection.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Reflection.Extensions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Reflection.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Resources.Reader.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Resources.ResourceManager.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Resources.Writer.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Extensions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Handles.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.InteropServices.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Numerics.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Serialization.Json.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Claims.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Cryptography.Csp.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.Principal.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Security.SecureString.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.Encoding.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.Encoding.Extensions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.RegularExpressions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Overlapped.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Tasks.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Thread.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.ThreadPool.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Timer.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Xml.ReaderWriter.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Xml.XDocument.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Xml.XmlDocument.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Xml.XmlSerializer.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Xml.XPath.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Xml.XPath.XDocument.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Antlr3.Runtime.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\EntityFramework.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Options.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Newtonsoft.Json.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Buffers.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Collections.Immutable.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ComponentModel.Annotations.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Memory.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Numerics.Vectors.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.Encodings.Web.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.Json.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ValueTuple.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Helpers.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Mvc.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Optimization.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Razor.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.WebPages.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.WebPages.Razor.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\WebGrease.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\EntityFramework.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Options.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Buffers.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Collections.Immutable.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Memory.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Numerics.Vectors.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.Encodings.Web.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Text.Json.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.ValueTuple.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Helpers.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Mvc.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Optimization.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.Razor.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.WebPages.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\System.Web.WebPages.Razor.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Newtonsoft.Json.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Antlr3.Runtime.pdb
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\obj\Debug\Lab_03.csproj.CopyComplete
+C:\Users\HOME\Desktop\Lab4\Lab_03\obj\Debug\Lab_03.dll
+C:\Users\HOME\Desktop\Lab4\Lab_03\obj\Debug\Lab_03.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Lab_03.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Lab_03.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Lab_03.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\csc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\csc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\csc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\csi.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\csi.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\csi.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Collections.Immutable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\vbc.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\vbc.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\vbc.rsp
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\VBCSCompiler.exe
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\roslyn\VBCSCompiler.exe.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Win32.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\netstandard.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.AppContext.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Collections.Concurrent.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Collections.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Collections.NonGeneric.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Collections.Specialized.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ComponentModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ComponentModel.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ComponentModel.TypeConverter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Console.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Data.Common.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.Contracts.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.Debug.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.Process.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.StackTrace.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.Tools.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.TraceSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.Tracing.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Drawing.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Dynamic.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Globalization.Calendars.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Globalization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Globalization.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.Compression.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.Compression.ZipFile.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.FileSystem.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.FileSystem.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.FileSystem.Watcher.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.IsolatedStorage.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.MemoryMappedFiles.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.Pipes.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Linq.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Linq.Expressions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Linq.Parallel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Linq.Queryable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.Http.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.NameResolution.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.NetworkInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.Ping.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.Requests.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.Security.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.Sockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.WebHeaderCollection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.WebSockets.Client.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Net.WebSockets.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ObjectModel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Reflection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Reflection.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Reflection.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Resources.Reader.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Resources.ResourceManager.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Resources.Writer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Handles.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.InteropServices.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Numerics.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Serialization.Formatters.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Serialization.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Serialization.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.Serialization.Xml.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Claims.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Cryptography.Algorithms.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Cryptography.Csp.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Cryptography.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Cryptography.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.Principal.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Security.SecureString.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.Encoding.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.Encoding.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.RegularExpressions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Overlapped.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Tasks.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Tasks.Parallel.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Thread.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.ThreadPool.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Timer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Xml.ReaderWriter.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Xml.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Xml.XmlDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Xml.XmlSerializer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Xml.XPath.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Xml.XPath.XDocument.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Antlr3.Runtime.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Bcl.HashCode.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Options.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Primitives.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Web.Infrastructure.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Collections.Immutable.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ComponentModel.Annotations.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Helpers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Mvc.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Optimization.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.WebPages.Deployment.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.WebPages.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.WebPages.Razor.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\WebGrease.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Bcl.HashCode.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Options.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.Extensions.Primitives.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Collections.Immutable.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Helpers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Mvc.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Optimization.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.WebPages.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.WebPages.Deployment.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\System.Web.WebPages.Razor.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Antlr3.Runtime.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.Helpers.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.Mvc.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.Optimization.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.WebPages.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\obj\Debug\Lab_03.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\obj\Debug\Lab_03.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\obj\Debug\Lab_03.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab4\Lab_03\obj\Debug\Lab_03.pdb

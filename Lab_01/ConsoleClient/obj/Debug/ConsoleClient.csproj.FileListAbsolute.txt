@@ -1,0 +1,12 @@
+C:\Apps\Fomin\Lab_01\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Apps\Fomin\Lab_01\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Apps\Fomin\Lab_01\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Apps\Fomin\Lab_01\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+C:\Apps\Fomin\Lab_01\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Apps\Fomin\Lab_01\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\HOME\Desktop\Lab_01\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\HOME\Desktop\Lab_01\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\HOME\Desktop\Lab_01\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\HOME\Desktop\Lab_01\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Lab_01\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\HOME\Desktop\Lab_01\ConsoleClient\obj\Debug\ConsoleClient.pdb

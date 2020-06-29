@@ -1,0 +1,20 @@
+﻿<Window x:Class="WindowsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowsApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Grid Height="412" Margin="10,0,-0.4,0">
+                <TextBox x:Name="FirstNum" HorizontalAlignment="Left" Height="28" Margin="10,91,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="82" FontSize="20" TextChanged="TextBox_TextChanged"/>
+                <Label Content="+" HorizontalAlignment="Left" Margin="92,71,0,0" VerticalAlignment="Top" Height="49" Width="38" FontSize="36"/>
+                <Button Click="Sum_Click" Content="=" HorizontalAlignment="Left" Margin="234,91,0,0" VerticalAlignment="Top" Width="28" Height="29"/>
+                <TextBox x:Name="SecondNum" HorizontalAlignment="Left" Height="28" Margin="130,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" FontSize="20"/>
+                <Label x:Name="Result" HorizontalAlignment="Left" Margin="289,91,0,0" VerticalAlignment="Top" Height="220" Width="474" FontSize="20"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
