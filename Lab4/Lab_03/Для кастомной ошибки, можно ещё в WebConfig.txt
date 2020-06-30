@@ -1,0 +1,3 @@
+<customErrors mode="On" defaultRedirect="~/Error/404">
+<error statusCode="404" redirect="~/Error/404"/>
+</customErrors>

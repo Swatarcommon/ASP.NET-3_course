@@ -47,7 +47,7 @@ namespace MSSQL_DB
                 phone.Name = item.Name;
                 phone.Phone_Number = item.Phone_Number;
                 db.Phones.Attach(phone);
-                //db.Entry(phone).State = EntityState.Modified;
+                db.Entry(phone).State = EntityState.Modified;
                 db.SaveChanges();
                 return phone;
             }

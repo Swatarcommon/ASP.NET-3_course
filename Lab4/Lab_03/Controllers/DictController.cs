@@ -10,7 +10,6 @@ namespace PhoneStore.Controllers
     public class DictController : Controller
     {
         PhoneRepository phoneRepository = new PhoneRepository();
-        PhoneDictionaryEntities db = new PhoneDictionaryEntities();
 
 
         public ActionResult Index()
@@ -76,8 +75,8 @@ namespace PhoneStore.Controllers
 
         protected override void Dispose(bool disposing)
         {
-            db.Dispose();
-            base.Dispose(disposing);
+            //db.Dispose();
+            //base.Dispose(disposing);
         }
     }
 }
