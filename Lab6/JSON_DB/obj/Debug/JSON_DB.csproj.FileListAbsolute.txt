@@ -64,3 +64,36 @@ D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csp
 D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
 D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
 D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\JSON_DB.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\PhoneDictionary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\Newtonsoft.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\bin\Debug\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET (+)\Labs\Lab6\JSON_DB\obj\Debug\JSON_DB.pdb

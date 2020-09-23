@@ -9,7 +9,6 @@ namespace Lab_03.Controllers
 {
     public class DictController : Controller
     {
-        static object locker = new object();
         PhoneRepository phoneRepository = new PhoneRepository();
 
         public ActionResult Index()

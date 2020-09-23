@@ -1,21 +1,21 @@
 ﻿using System;
 using System.Linq;
 using System.Windows.Forms;
-//using Lab7b.PhoneDictService;
-using Lab7b.WcfService;
+using Lab7b.PhoneDictService; //ДЛЯ asmx
+//using Lab7b.WcfService; //для WCF
 
 namespace Lab7b
 {
     public partial class Form1 : Form
     {
-        //private PhoneDictServiceSoapClient Service { get; set; }
-        private IService1 Service { get; set; }
+        private PhoneDictServiceSoapClient Service { get; set; }//ДЛЯ asmx
+        //private IService1 Service { get; set; } //для WCF
         public Form1()
         {
             InitializeComponent();
-            //Service = new PhoneDictServiceSoapClient();
-            Service = new Service1Client();
-            LoadTable();
+            Service = new PhoneDictServiceSoapClient();  //ДЛЯ asmx
+            //Service = new Service1Client();  //для WCF
+            LoadPhoneList();
         }
 
         private void AddButton_Click(object sender, EventArgs e)
@@ -33,7 +33,7 @@ namespace Lab7b
                             Name = PhonesGrid.SelectedRows[0].Cells[1].Value.ToString(),
                             Phone_Number = phone_number
                         });
-                        LoadTable();
+                        LoadPhoneList();
                     }
                     else
                     {
@@ -59,7 +59,7 @@ namespace Lab7b
                             Name = PhonesGrid.SelectedRows[0].Cells[1].Value.ToString(),
                             Phone_Number = phone_number
                         });
-                        LoadTable();
+                        LoadPhoneList();
                     }
                     else
                     {
@@ -86,7 +86,7 @@ namespace Lab7b
                             Name = PhonesGrid.SelectedRows[0].Cells[1].Value.ToString(),
                             Phone_Number = Int32.Parse(PhonesGrid.SelectedRows[0].Cells[2].Value.ToString())
                         });
-                        LoadTable();
+                        LoadPhoneList();
                     }
                     else
                     {
@@ -97,7 +97,7 @@ namespace Lab7b
         }
 
 
-        private void LoadTable()
+        private void LoadPhoneList()
         {
             PhonesGrid.Rows.Clear();
             PhonesGrid.Columns.Clear();
